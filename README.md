@@ -18,3 +18,4 @@ Making a tool for real time whiteboarding to deepen my understanding of using Co
 - Adding favorites to convex schema
 
 2/9
+- Connected search for titles to db
